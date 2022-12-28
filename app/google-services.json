@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19537562168",
+    "project_id": "masud-my-project-madrasha-app",
+    "storage_bucket": "masud-my-project-madrasha-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19537562168:android:0cf711209fdbfa1fb974cd",
+        "android_client_info": {
+          "package_name": "com.masud.masudmyproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19537562168-29lbntkvv3aogf3qa9ee3toc7fie6273.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCihyp0pUbLJGH7Fp65DtvP8gOntrvYmBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19537562168-29lbntkvv3aogf3qa9ee3toc7fie6273.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
